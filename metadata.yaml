@@ -1,5 +1,5 @@
 _repo: The-Junior-Classics-Volume-1-Fairy-and-wonder-tales_3152
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -35,5 +35,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PZ'
 - !lcsh 'Children''s literature'
+- GITenberg
 title: 'The Junior Classics — Volume 1: Fairy and wonder tales'
 url: http://www.gutenberg.org/ebooks/3152
